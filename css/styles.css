@@ -1,0 +1,70 @@
+/* DIV PARALLAX ACCUEIL */
+.main{
+	padding-top: 5%;
+    background-image: url("../img/plat1.jpg");
+    height: 500px; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.main2{
+    background-image: url("../img/03.jpg");
+    height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+/* TEXT DANS DIV PARALLAX */
+.paratext{
+	background-color: rgba(0,0,0,0.2);
+	height: 500px;
+	width: 100%;
+	padding: 2rem;
+	color: #fff;
+}
+
+
+
+/* IMAGES NAVBAR BRAND */
+.palme {
+	height: 50px;
+}
+
+.title{
+	height: 35px;
+	margin-left: 30px;
+}
+
+#form1{
+
+    padding-top: 60px;
+}
+
+#form2{
+
+    padding-top: 28px;
+}
+
+#signup{
+
+    padding-top: 100px;
+}
+
+#lou, #loc{
+
+    padding-top: 100px;
+}
+
+#add{
+    margin-left: 600px;
+    width: 150px;
+}
+
+#carte{
+    margin-left: 550px;
+    padding-top: 50px;
+}
